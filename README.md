@@ -8,3 +8,4 @@ Eclipse Java EE IDE 2018-09 (4.9.0),
 Apache-maven-4.0.0,
 jdk1.8.0_151,
 chromedriver_win32.
+chrome browser
