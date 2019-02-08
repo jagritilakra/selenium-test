@@ -6,7 +6,7 @@ public class Testcases {
 	
 	public void Gettexts()
 	{
-		//initiating chromedriver
+		//initiating chromedriver and providing path to it.
 		System.setProperty("webdriver.chrome.driver","C:\\Users\\jagriti\\Downloads\\chromedriver_win32 (1)\\chromedriver.exe");
 		WebDriver obj1=new ChromeDriver();	
 	obj1.get("https://www.google.com/");
